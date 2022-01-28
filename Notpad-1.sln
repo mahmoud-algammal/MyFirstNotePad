@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notpad-1", "Notpad-1\Notpad-1.csproj", "{909FB99D-1FD5-4DC7-BA7A-1BACBC83572E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909FB99D-1FD5-4DC7-BA7A-1BACBC83572E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909FB99D-1FD5-4DC7-BA7A-1BACBC83572E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909FB99D-1FD5-4DC7-BA7A-1BACBC83572E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909FB99D-1FD5-4DC7-BA7A-1BACBC83572E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5475FC38-CFAC-4AF3-800E-C6755DADA14E}
+	EndGlobalSection
+EndGlobal
